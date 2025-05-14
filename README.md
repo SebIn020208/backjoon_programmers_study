@@ -1,2 +1,2 @@
-# backjoon_-_programmers_study
+# backjoon_programmers_study
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
